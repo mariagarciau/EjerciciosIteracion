@@ -1,4 +1,4 @@
-"""Ejercicio 6: Historial de una cuenta corriente
+f"""Ejercicio 6: Historial de una cuenta corriente
 Se quiere conservar el historial de los movimientos mensuales en una cuenta corriente.
 1. Modificar el tipo CUENTA definido en el capítulo «Estructuras elementales» para conservar el rastro de los movimientos en una cuenta durante un mes.
 2. Establecer el saldo a final de mes de una cuenta dada.
